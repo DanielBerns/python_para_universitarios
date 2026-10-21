@@ -1,8 +1,7 @@
-# python_para_crd
-Curso de Python para Comodoro Conocimiento
+# python_para_universitarios
 
-1. [Encuentro 1](./encuentros/encuentro_1.md)
-2. [Encuentro 2](./encuentros/encuentro_2.md)
-3. [Encuentro 3](./encuentros/encuentro_3.md)
-4. [Encuentro 4](./encuentros/encuentro_4.md)
-5. [Encuentro 5](./encuentros/encuentro_5.md)
+Curso de Python para universitarios en carreras no afines a ciencias de la computación
+
+En este repositorio encontrará tres diferentes instancias de un curso introductorio de python.
+El objetivo de este curso es lograr los conocimientos básicos de un lenguaje de programación y la capacidad operativa para 
+analizar, procesar y visualizar datos provenientes de hojas de cálculo y bases de datos pequeñas.
